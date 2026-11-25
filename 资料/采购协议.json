@@ -1,0 +1,77 @@
+{
+  "reference_kg_per_100km": 12.5,
+  "minimum_weight_coverage": 0.6,
+  "credit_levels": [
+    {
+      "kg_saved_floor": 0.2,
+      "amount_cny": 900
+    },
+    {
+      "kg_saved_floor": 0.6,
+      "amount_cny": 2500
+    },
+    {
+      "kg_saved_floor": 1.2,
+      "amount_cny": 5000
+    }
+  ],
+  "trial_window": [
+    {
+      "slot": "周二午",
+      "vendor": "恒源",
+      "station": "联运站",
+      "capacity": 1
+    },
+    {
+      "slot": "周二午",
+      "vendor": "锦合",
+      "station": "联运站",
+      "capacity": 1
+    },
+    {
+      "slot": "周三早",
+      "vendor": "恒源",
+      "station": "工业路站",
+      "capacity": 2
+    }
+  ],
+  "protected": [
+    {
+      "slot": "周三早",
+      "vendor": "恒源",
+      "vehicle": "V2",
+      "station": "工业路站"
+    }
+  ],
+  "trial_requests": [
+    {
+      "id": "OBS1",
+      "vehicle": "V3",
+      "route": "坡道",
+      "acceptable": [
+        [
+          "周二午",
+          "锦合",
+          "联运站"
+        ],
+        [
+          "周三早",
+          "恒源",
+          "工业路站"
+        ]
+      ]
+    },
+    {
+      "id": "OBS2",
+      "vehicle": "V5",
+      "route": "环线",
+      "acceptable": [
+        [
+          "周二午",
+          "锦合",
+          "联运站"
+        ]
+      ]
+    }
+  ]
+}

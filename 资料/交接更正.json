@@ -1,0 +1,19 @@
+{
+  "receipt_change": {
+    "receipt": "FB2",
+    "vehicle": "V3",
+    "candidate_runs": [
+      "PAIR2B"
+    ],
+    "known_at": 14420
+  },
+  "tank_addition": {
+    "reading": "REV3B",
+    "vehicle": "V3",
+    "minute": 5775,
+    "min_kg": 13,
+    "max_kg": 15,
+    "source": "复核仪表",
+    "known_at": 14422
+  }
+}

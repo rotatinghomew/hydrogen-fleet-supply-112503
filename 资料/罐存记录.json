@@ -1,0 +1,866 @@
+[
+  {
+    "reading": "TV1-1",
+    "vehicle": "V1",
+    "minute": 1455,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV1-1",
+    "vehicle": "V1",
+    "minute": 1815,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-2",
+    "vehicle": "V1",
+    "minute": 2895,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV1-2",
+    "vehicle": "V1",
+    "minute": 3255,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-3",
+    "vehicle": "V1",
+    "minute": 4335,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV1-3",
+    "vehicle": "V1",
+    "minute": 4695,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-4",
+    "vehicle": "V1",
+    "minute": 5775,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-5",
+    "vehicle": "V1",
+    "minute": 7215,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV1-5",
+    "vehicle": "V1",
+    "minute": 7575,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-6",
+    "vehicle": "V1",
+    "minute": 8655,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV1-6",
+    "vehicle": "V1",
+    "minute": 9015,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-7",
+    "vehicle": "V1",
+    "minute": 10095,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV1-7",
+    "vehicle": "V1",
+    "minute": 10455,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV1-8",
+    "vehicle": "V1",
+    "minute": 11535,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-1",
+    "vehicle": "V2",
+    "minute": 1470,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV2-1",
+    "vehicle": "V2",
+    "minute": 1830,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-2",
+    "vehicle": "V2",
+    "minute": 2910,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV2-2",
+    "vehicle": "V2",
+    "minute": 3270,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-3",
+    "vehicle": "V2",
+    "minute": 4350,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV2-3",
+    "vehicle": "V2",
+    "minute": 4710,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-4",
+    "vehicle": "V2",
+    "minute": 5790,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-5",
+    "vehicle": "V2",
+    "minute": 7230,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV2-5",
+    "vehicle": "V2",
+    "minute": 7590,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-6",
+    "vehicle": "V2",
+    "minute": 8670,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV2-6",
+    "vehicle": "V2",
+    "minute": 9030,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-7",
+    "vehicle": "V2",
+    "minute": 10110,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV2-7",
+    "vehicle": "V2",
+    "minute": 10470,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV2-8",
+    "vehicle": "V2",
+    "minute": 11550,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-1",
+    "vehicle": "V3",
+    "minute": 1485,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV3-1",
+    "vehicle": "V3",
+    "minute": 1845,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-2",
+    "vehicle": "V3",
+    "minute": 2925,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV3-2",
+    "vehicle": "V3",
+    "minute": 3285,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-3",
+    "vehicle": "V3",
+    "minute": 4365,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV3-3",
+    "vehicle": "V3",
+    "minute": 4725,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-4",
+    "vehicle": "V3",
+    "minute": 5805,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-5",
+    "vehicle": "V3",
+    "minute": 7245,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV3-5",
+    "vehicle": "V3",
+    "minute": 7605,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-6",
+    "vehicle": "V3",
+    "minute": 8685,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV3-6",
+    "vehicle": "V3",
+    "minute": 9045,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-7",
+    "vehicle": "V3",
+    "minute": 10125,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV3-7",
+    "vehicle": "V3",
+    "minute": 10485,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV3-8",
+    "vehicle": "V3",
+    "minute": 11565,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-1",
+    "vehicle": "V4",
+    "minute": 1500,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV4-1",
+    "vehicle": "V4",
+    "minute": 1860,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-2",
+    "vehicle": "V4",
+    "minute": 2940,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV4-2",
+    "vehicle": "V4",
+    "minute": 3300,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-3",
+    "vehicle": "V4",
+    "minute": 4380,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV4-3",
+    "vehicle": "V4",
+    "minute": 4740,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-4",
+    "vehicle": "V4",
+    "minute": 5820,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-5",
+    "vehicle": "V4",
+    "minute": 7260,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV4-5",
+    "vehicle": "V4",
+    "minute": 7620,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-6",
+    "vehicle": "V4",
+    "minute": 8700,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV4-6",
+    "vehicle": "V4",
+    "minute": 9060,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-7",
+    "vehicle": "V4",
+    "minute": 10140,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV4-7",
+    "vehicle": "V4",
+    "minute": 10500,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV4-8",
+    "vehicle": "V4",
+    "minute": 11580,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-1",
+    "vehicle": "V5",
+    "minute": 1515,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV5-1",
+    "vehicle": "V5",
+    "minute": 1875,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-2",
+    "vehicle": "V5",
+    "minute": 2955,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV5-2",
+    "vehicle": "V5",
+    "minute": 3315,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-3",
+    "vehicle": "V5",
+    "minute": 4395,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV5-3",
+    "vehicle": "V5",
+    "minute": 4755,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-4",
+    "vehicle": "V5",
+    "minute": 5835,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-5",
+    "vehicle": "V5",
+    "minute": 7275,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV5-5",
+    "vehicle": "V5",
+    "minute": 7635,
+    "min_kg": 10,
+    "max_kg": 13,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-6",
+    "vehicle": "V5",
+    "minute": 8715,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV5-6",
+    "vehicle": "V5",
+    "minute": 9075,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-7",
+    "vehicle": "V5",
+    "minute": 10155,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV5-7",
+    "vehicle": "V5",
+    "minute": 10515,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV5-8",
+    "vehicle": "V5",
+    "minute": 11595,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-1",
+    "vehicle": "V6",
+    "minute": 1530,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV6-1",
+    "vehicle": "V6",
+    "minute": 1890,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-2",
+    "vehicle": "V6",
+    "minute": 2970,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV6-2",
+    "vehicle": "V6",
+    "minute": 3330,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-3",
+    "vehicle": "V6",
+    "minute": 4410,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV6-3",
+    "vehicle": "V6",
+    "minute": 4770,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-4",
+    "vehicle": "V6",
+    "minute": 5850,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-5",
+    "vehicle": "V6",
+    "minute": 7290,
+    "min_kg": 18.5,
+    "max_kg": 21.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV6-5",
+    "vehicle": "V6",
+    "minute": 7650,
+    "min_kg": 11,
+    "max_kg": 14,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-6",
+    "vehicle": "V6",
+    "minute": 8730,
+    "min_kg": 15.5,
+    "max_kg": 18.5,
+    "source": "交接区间"
+  },
+  {
+    "reading": "UV6-6",
+    "vehicle": "V6",
+    "minute": 9090,
+    "min_kg": 8,
+    "max_kg": 11,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-7",
+    "vehicle": "V6",
+    "minute": 10170,
+    "min_kg": 16.5,
+    "max_kg": 19.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "UV6-7",
+    "vehicle": "V6",
+    "minute": 10530,
+    "min_kg": 9,
+    "max_kg": 12,
+    "source": "仪表"
+  },
+  {
+    "reading": "TV6-8",
+    "vehicle": "V6",
+    "minute": 11610,
+    "min_kg": 17.5,
+    "max_kg": 20.5,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB0A",
+    "vehicle": "V1",
+    "minute": 12400,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB0B",
+    "vehicle": "V1",
+    "minute": 12475,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB0C",
+    "vehicle": "V1",
+    "minute": 12550,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB1A",
+    "vehicle": "V2",
+    "minute": 12560,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB1B",
+    "vehicle": "V2",
+    "minute": 12635,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB1C",
+    "vehicle": "V2",
+    "minute": 12710,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB2A",
+    "vehicle": "V3",
+    "minute": 12720,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB2B",
+    "vehicle": "V3",
+    "minute": 12795,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB2C",
+    "vehicle": "V3",
+    "minute": 12870,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB3A",
+    "vehicle": "V4",
+    "minute": 12880,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB3B",
+    "vehicle": "V4",
+    "minute": 12955,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB3C",
+    "vehicle": "V4",
+    "minute": 13030,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB4A",
+    "vehicle": "V1",
+    "minute": 13040,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB4B",
+    "vehicle": "V1",
+    "minute": 13115,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB4C",
+    "vehicle": "V1",
+    "minute": 13190,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB5A",
+    "vehicle": "V2",
+    "minute": 13200,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB5B",
+    "vehicle": "V2",
+    "minute": 13275,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB5C",
+    "vehicle": "V2",
+    "minute": 13350,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB6A",
+    "vehicle": "V3",
+    "minute": 13360,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB6B",
+    "vehicle": "V3",
+    "minute": 13435,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB6C",
+    "vehicle": "V3",
+    "minute": 13510,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB7A",
+    "vehicle": "V4",
+    "minute": 13520,
+    "min_kg": 19.0,
+    "max_kg": 20.3,
+    "source": "仪表"
+  },
+  {
+    "reading": "TB7B",
+    "vehicle": "V4",
+    "minute": 13595,
+    "min_kg": 13.0,
+    "max_kg": 17.4,
+    "source": "共享交接余量"
+  },
+  {
+    "reading": "TB7C",
+    "vehicle": "V4",
+    "minute": 13670,
+    "min_kg": 12.7,
+    "max_kg": 13.4,
+    "source": "仪表"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "run": "V1-1",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V1-2",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V1-3",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V1-4",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V1-5",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V1-6",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V1-7",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V1-8",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-1",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-2",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-3",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V2-4",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-5",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-6",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V2-7",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V2-8",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-1",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-2",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-3",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V3-4",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-5",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-6",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V3-7",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V3-8",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-1",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-2",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-3",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V4-4",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-5",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-6",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V4-7",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V4-8",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-1",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-2",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-3",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V5-4",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-5",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-6",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V5-7",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V5-8",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-1",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-2",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-3",
+    "vendor": "锦合",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V6-4",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-5",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-6",
+    "vendor": "恒源",
+    "attributable": false,
+    "note": "旧来源余量未厘清"
+  },
+  {
+    "run": "V6-7",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "V6-8",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR0A",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR0B",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR1A",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR1B",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR2A",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR2B",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR3A",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR3B",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR4A",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR4B",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR5A",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR5B",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR6A",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR6B",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR7A",
+    "vendor": "恒源",
+    "attributable": true,
+    "note": "可归属"
+  },
+  {
+    "run": "PAIR7B",
+    "vendor": "锦合",
+    "attributable": true,
+    "note": "可归属"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "receipt": "FV1-2",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 2850,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V1-2"
+    ]
+  },
+  {
+    "receipt": "FV1-3",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 4290,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V1-3"
+    ]
+  },
+  {
+    "receipt": "FV1-4",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 5730,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V1-4"
+    ]
+  },
+  {
+    "receipt": "FV1-5",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 7170,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V1-5"
+    ]
+  },
+  {
+    "receipt": "FV1-6",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 8610,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V1-6"
+    ]
+  },
+  {
+    "receipt": "FV1-7",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 10050,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V1-7"
+    ]
+  },
+  {
+    "receipt": "FV1-8",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 11490,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V1-8"
+    ]
+  },
+  {
+    "receipt": "FV2-2",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 2865,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V2-2"
+    ]
+  },
+  {
+    "receipt": "FV2-3",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 4305,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V2-3"
+    ]
+  },
+  {
+    "receipt": "FV2-4",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 5745,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V2-4"
+    ]
+  },
+  {
+    "receipt": "FV2-5",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 7185,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V2-5"
+    ]
+  },
+  {
+    "receipt": "FV2-6",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 8625,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V2-6"
+    ]
+  },
+  {
+    "receipt": "FV2-7",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 10065,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V2-7"
+    ]
+  },
+  {
+    "receipt": "FV2-8",
+    "vehicle": "V2",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 11505,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V2-8"
+    ]
+  },
+  {
+    "receipt": "FV3-2",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 2880,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V3-2"
+    ]
+  },
+  {
+    "receipt": "FV3-3",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 4320,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V3-3"
+    ]
+  },
+  {
+    "receipt": "FV3-4",
+    "vehicle": null,
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 5760,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V3-4",
+      "V4-4"
+    ]
+  },
+  {
+    "receipt": "FV3-5",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 7200,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V3-5"
+    ]
+  },
+  {
+    "receipt": "FV3-6",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 8640,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V3-6"
+    ]
+  },
+  {
+    "receipt": "FV3-7",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 10080,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V3-7"
+    ]
+  },
+  {
+    "receipt": "FV3-8",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 11520,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V3-8"
+    ]
+  },
+  {
+    "receipt": "FV4-2",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 2895,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V4-2"
+    ]
+  },
+  {
+    "receipt": "FV4-3",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 4335,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V4-3"
+    ]
+  },
+  {
+    "receipt": "FV4-4",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 5775,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V4-4"
+    ]
+  },
+  {
+    "receipt": "FV4-5",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 7215,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V4-5"
+    ]
+  },
+  {
+    "receipt": "FV4-6",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 8655,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V4-6"
+    ]
+  },
+  {
+    "receipt": "FV4-7",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 10095,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V4-7"
+    ]
+  },
+  {
+    "receipt": "FV4-8",
+    "vehicle": "V4",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 11535,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V4-8"
+    ]
+  },
+  {
+    "receipt": "FV5-2",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 2910,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V5-2"
+    ]
+  },
+  {
+    "receipt": "FV5-3",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 4350,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V5-3"
+    ]
+  },
+  {
+    "receipt": "FV5-4",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 5790,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V5-4"
+    ]
+  },
+  {
+    "receipt": "FV5-5",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 7230,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V5-5"
+    ]
+  },
+  {
+    "receipt": "FV5-6",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 8670,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V5-6"
+    ]
+  },
+  {
+    "receipt": "FV5-7",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 10110,
+    "kilograms": 10.0,
+    "candidate_runs": [
+      "V5-7"
+    ]
+  },
+  {
+    "receipt": "FV5-8",
+    "vehicle": "V5",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 11550,
+    "kilograms": 9.0,
+    "candidate_runs": [
+      "V5-8"
+    ]
+  },
+  {
+    "receipt": "FV6-2",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 2925,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V6-2"
+    ]
+  },
+  {
+    "receipt": "FV6-3",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 4365,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V6-3"
+    ]
+  },
+  {
+    "receipt": "FV6-4",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 5805,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V6-4"
+    ]
+  },
+  {
+    "receipt": "FV6-5",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 7245,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V6-5"
+    ]
+  },
+  {
+    "receipt": "FV6-6",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 8685,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V6-6"
+    ]
+  },
+  {
+    "receipt": "FV6-7",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "锦合",
+    "minute": 10125,
+    "kilograms": 8.0,
+    "candidate_runs": [
+      "V6-7"
+    ]
+  },
+  {
+    "receipt": "FV6-8",
+    "vehicle": "V6",
+    "station": "工业路站",
+    "vendor": "恒源",
+    "minute": 11565,
+    "kilograms": 7.0,
+    "candidate_runs": [
+      "V6-8"
+    ]
+  },
+  {
+    "receipt": "FB0",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 12485,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR0B"
+    ]
+  },
+  {
+    "receipt": "FB1",
+    "vehicle": "V2",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 12645,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR1B"
+    ]
+  },
+  {
+    "receipt": "FB2",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 12805,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR2A",
+      "PAIR2B"
+    ]
+  },
+  {
+    "receipt": "FB3",
+    "vehicle": "V4",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 12965,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR3B"
+    ]
+  },
+  {
+    "receipt": "FB4",
+    "vehicle": "V1",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 13125,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR4B"
+    ]
+  },
+  {
+    "receipt": "FB5",
+    "vehicle": "V2",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 13285,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR5B"
+    ]
+  },
+  {
+    "receipt": "FB6",
+    "vehicle": "V3",
+    "station": "联运站",
+    "vendor": "恒源",
+    "minute": 13445,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR6B"
+    ]
+  },
+  {
+    "receipt": "FB7",
+    "vehicle": "V4",
+    "station": "联运站",
+    "vendor": "锦合",
+    "minute": 13605,
+    "kilograms": 2.8,
+    "candidate_runs": [
+      "PAIR7B"
+    ]
+  }
+]
